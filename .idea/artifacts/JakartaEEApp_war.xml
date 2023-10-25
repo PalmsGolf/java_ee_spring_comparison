@@ -9,7 +9,7 @@
         <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="JakartaEEApp-1.0.war">
+    <root id="archive" name="JakartaEEApp.war">
       <element id="artifact" artifact-name="JakartaEEApp:war exploded" />
     </root>
   </artifact>

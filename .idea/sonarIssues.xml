@@ -68,6 +68,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/mike/jakartaeeapp/filters/AuthTokenFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/mike/jakartaeeapp/filters/AuthenticationFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/mike/jakartaeeapp/handlers/IllegalArgumentExceptionMapper.java">
           <value>
             <set />

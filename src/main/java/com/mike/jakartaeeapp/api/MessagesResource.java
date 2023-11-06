@@ -3,7 +3,7 @@ package com.mike.jakartaeeapp.api;
 import com.mike.jakartaeeapp.entities.Message;
 import com.mike.jakartaeeapp.model.Language;
 import com.mike.jakartaeeapp.model.MessageRequest;
-import com.mike.jakartaeeapp.service.MessagesService;
+import com.mike.jakartaeeapp.ejb.MessagesService;
 import jakarta.inject.Inject;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.POST;
